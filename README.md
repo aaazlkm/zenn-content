@@ -17,3 +17,10 @@ npx zenn new:article
 ```shell
  npx zenn preview
 ```
+
+## テンプレート
+
+TODO: 記事に種類ごとにある程度テンプレートを用意しよう
+
+参考記事
+https://zenn.dev/counterworks/articles/articles-output
