@@ -158,7 +158,7 @@ function initAuth() {
   const title = "Admobアプリの認可処理";
   const htmlOutput = HtmlService.createHtmlOutput(html)
     .setWidth(400)
-    .setHeight(150);s
+    .setHeight(150);
   SpreadsheetApp.getUi().showModelessDialog(htmlOutput, title);
 }
 
